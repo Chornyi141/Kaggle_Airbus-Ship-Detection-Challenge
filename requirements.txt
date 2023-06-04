@@ -1,0 +1,2 @@
+Except default python modules:
+tensorflow, numpy, pandas, matplotlib, seaborn, albumentations, scipy
